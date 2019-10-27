@@ -14,3 +14,4 @@ go语言一个web开发框架值得学习 [beego](https://beego.me/docs/mvc/cont
 纳兰性德全集 [通志堂集](https://zh.wikisource.org/zh-hans/通志堂集/08)  
 免费数据    [维基文库](https://zh.wikisource.org/)  
 
+go语言写的github server  [gogs](https://gogs.io/docs/installation/install_from_binary)
